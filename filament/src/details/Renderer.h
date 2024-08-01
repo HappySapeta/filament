@@ -52,6 +52,8 @@
 #include <stddef.h>
 #include <stdint.h>
 
+#include <ResourceAllocator.h>
+
 namespace filament {
 
 class ResourceAllocator;
